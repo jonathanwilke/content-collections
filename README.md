@@ -30,7 +30,7 @@ Transform your content into type-safe data collections. Eliminate the need for m
 
 1. Add path alias to your `tsconfig.json`:
 
-   ```json
+   ```javascript
    {
      "compilerOptions": {
        // ...
